@@ -7,8 +7,8 @@ This project simulates a basic banking environment with multiple menus and user 
 
 - User login with username authentication.
 - Management of users and clients.
-- Account operations including:
 - Add, edit, and delete clients or users.
+- Account operations including:
   - Deposit
   - Withdrawal
   - Transfer
