@@ -298,13 +298,76 @@ C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsLoginRegisterL
 C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsMainScreen.h(12,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'BankSystemC11P3V1.cpp')
   
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrencyExchangeMainScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrencyExchangeMainScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrencyExchangeMainScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrenciesListScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrenciesListScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrency.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrency.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrenciesListScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrencyExchangeMainScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsFindCurrencyScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsFindCurrencyScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsFindCurrencyScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrencyExchangeMainScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsUpdateRateScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsUpdateRateScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsUpdateRateScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrencyExchangeMainScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrencyCalculatorScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrencyCalculatorScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsCurrencyCalculatorScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
 C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsMainScreen.h(13,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystemC11P3V1.cpp')
+  
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsMainScreen.h(14,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'BankSystemC11P3V1.cpp')
   
 C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsLoginScreen.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'BankSystemC11P3V1.cpp')
   
-C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsLoginScreen.h(36,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsLoginScreen.h(35,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
 C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsBankClient.h(232,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
 C:\Users\user\source\repos\BankSystemC11P3V1\BankSystemC11P3V1\clsUsers.h(231,1): warning C4715: 'clsUsers::Save': not all control paths return a value
   BankSystemC11P3V1.vcxproj -> C:\Users\user\source\repos\BankSystemC11P3V1\x64\Debug\BankSystemC11P3V1.exe

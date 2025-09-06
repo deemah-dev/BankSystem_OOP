@@ -17,7 +17,6 @@ class clsLoginScreen : protected clsScreen {
 			cout << endl;
 			cout << clsUtility::Tab(5) << "Enter Password : ";
 			string Password = clsInputValidate::ReadString();
-			/*Password = clsUtility::DecryptText(Password, 5);*/
 			cout << endl;
 			CurrentUser = clsUsers::Find(Username, Password);
 			LoginFailed = CurrentUser.IsEmpty();
